@@ -1,5 +1,5 @@
 # CSC4343 Homework 1: ResNet-18 on CIFAR-10 with Gradient Scaling
-## Author: Alexis Harvey
+Author: Alexis Harvey
 
 ## Setup
 
